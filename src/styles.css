@@ -1,0 +1,12 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+  margin: 0px;
+}
+.container {
+  display: flex;
+}
+.Main {
+  margin: 0px;
+  background-color: yellow;
+}
